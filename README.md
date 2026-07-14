@@ -8,7 +8,7 @@
 
 ### 💫 About Me:
 🔭 I'm currently a **B.Tech pre-final year student** pursuing **Computer Science Engineering with specialization in AI & ML**.  
-🌱 I enjoy solving **coding problems** and continuously enhancing my skills in **MERN Stack , Machine Learning, and Problem Solving **.  
+🌱 I enjoy solving **coding problems** and continuously enhancing my skills in **Mern Stack, Machine Learning, and Generative AI**.  
 👯 I’m open to collaborating on **AI, ML, and Web Development projects** that challenge creativity and innovation.  
 💡 Always exploring new technologies that can make a meaningful impact.  
 
@@ -19,6 +19,7 @@
 <!-- 💼 **LinkedIn:** [linkedin.com/in/sunay-reddy-c-b56916301](https://www.linkedin.com/in/sunay-reddy-c-b56916301/) -->
 
 ---
+
 ### 💻 Tech Stack:
 **Languages & Frameworks:**  
 Java • Python • HTML5 • CSS3 • Java Script  
@@ -29,6 +30,7 @@ MySQL • MongoDB
 
 **Tools & Platforms:**  
 Git • GitHub • Netlify 
+
 ---
 ### 🚀 Featured Projects:
 
@@ -41,6 +43,7 @@ Git • GitHub • Netlify
 👉 Explore all my work here: [GitHub Repositories](https://github.com/adityasakarkar59?tab=repositories)
 
 ---
+
 ### ⚡ Fun Fact:
 💬 I love experimenting with new technologies and turning creative ideas into working prototypes.  
 ☕ I enjoy converting ideas into real-world applications.
