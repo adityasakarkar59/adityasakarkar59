@@ -47,6 +47,7 @@ Git • GitHub • Netlify
 ### ⚡ Fun Fact:
 💬 I love experimenting with new technologies and turning creative ideas into working prototypes.  
 ☕ I enjoy converting ideas into real-world applications.
+
 ---
 
 ⭐ **Thanks for visiting!**  
